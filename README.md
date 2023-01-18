@@ -19,7 +19,8 @@ Why/What Proguard:
  ```
  def enableProguardInReleaseBuilds = true
  ```
-#Method (2)
+# Method (2)
+
 Now you can also set different Platform arch just use this
  just Enable OR set **true** at **adroid/app/build.gradle**
  See Below
